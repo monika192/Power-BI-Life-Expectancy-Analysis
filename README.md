@@ -3,7 +3,7 @@ Life Expectancy Dashboard
 
 # Dashboard
 
-![image](https://github.com/monika192/Power-BI-Life-Expectancy-Analysis/assets/70840949/78ba6305-2198-4bc6-b7ca-fcab2579f687)
+![image](https://github.com/monika192/Power-BI-Life-Expectancy-Analysis/assets/70840949/886c966a-6a63-4af1-9f3f-0146aea90acd)
 
 ![image](https://github.com/monika192/Power-BI-Life-Expectancy-Analysis/assets/70840949/173874da-1712-48f8-87a3-f21c873570d3)
 
